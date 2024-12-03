@@ -37,12 +37,7 @@ Let's connect and discuss tech, software development, or anything in between!
   <a href="https://linkedin.com/in/gangaweerakkody" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangaweerakkody" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/gangaweerakkody" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="gangaweerakkody" height="30" width="40" />
-  </a>
-  <a href="mailto:gangaweerakkody@example.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="gangaweerakkody" height="30" width="40" />
-  </a>
+ 
 </p>
 
 ---
